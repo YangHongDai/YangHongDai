@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yang-Hong Dai
+title: Yang-Hong Dai 
 
 # Full name (for SEO)
 first_name: Yang-Hong
